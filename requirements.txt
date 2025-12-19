@@ -18,7 +18,7 @@ scipy==1.11.4
 
 # Google API Integration
 google-cloud-language==2.10.0
-google-cloud-translate==3.14.1
+google-cloud-translate
 google-api-python-client==1.12.5
 google-auth==2.25.2
 google-auth-oauthlib==1.2.0
